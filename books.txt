@@ -1,0 +1,32 @@
+title : 
+chemestry
+author : 
+enestain
+ID : 
+chemestryenestain
+fine price per day : 
+0.27
+is book borrowed?
+No
+last one who borrowed this book: 
+No one
+last time borrowed this book:
+No data
+last time returned this book:
+No data
+title : 
+mabani
+author : 
+Dr. omranpoor
+ID : 
+mabaniDr. omranpoor
+fine : 
+0.52
+is borrowed? : 
+No 
+last one who borrowed : 
+No one
+last time borrowed : 
+No data
+last time returned : 
+No data
